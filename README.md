@@ -1,7 +1,7 @@
 <h1>Wordey 📝</h1>
 <span>
 <img src = "Screen-Recording-2023-02-28-at-17.35.39-2.gif" width=256px>
-<img src = "Screen-Recording-2023-02-28-at-17.35.39.gif" width=256px>
+<img src = "Screen-Recording-2023-02-28-at-17.35.39 18.07.09.gif" width=256px>
 </span>
 
 <p>Wordey is a simple text editor app built using SwiftUI that lets users input text, customize its presentation, and display it on screen. Users can adjust the font color, size, style (bold and italic), and alignment of the text, and preview the changes in real time. The app also includes markdown support for formatting text.</p>
